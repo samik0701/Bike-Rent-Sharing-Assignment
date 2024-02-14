@@ -42,8 +42,8 @@ Following logical conclusion can be derived from above equation if all external 
 
 
 ## Acknowledgements
-- This project was inspired by live session of upGrad on EDA.
-- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
+- This project was inspired by live session of upGrad on Linear Regression.
+- UpGrad tutorials on Linear Regression on the learning platform
 
 
 ## Contact
