@@ -44,10 +44,8 @@ Following logical conclusion can be derived from above equation if all external 
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by live session of upGrad on EDA.
+- UpGrad tutorials on Exploratory Data Analysis (EDA) on the learning platform
 
 
 ## Contact
