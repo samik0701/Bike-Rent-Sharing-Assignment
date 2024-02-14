@@ -1,6 +1,4 @@
-# Project Name
-
-Bike Sharing Assignment
+# Bike Sharing Assignment
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -22,16 +20,16 @@ This analysis will help BoomBikes tailor their services effectively and stand ou
 ## Conclusions
 Following logical conclusion can be derived from above equation if all external and internal variables are stable:
 
-1. Temperature Impact:
-    * The most critical factor influencing demand is temperature. With a coefficient of 0.600201, for every 1-degree change in temperature, demand increases by a factor of 0.600201 (temperature × 0.600201). Impact is mostly during hotter months (especially in June, July, and August)
-2. Weather Conditions:
-    * The second most important factor is Light Rain or Light Snow, with a coefficient of -0.289400. On days with light rain, demand is expected to decrease by 28.9%.
-3. Annual Growth:
-    * The third significant factor is the year, with a coefficient value of 0.238668.
-4. Winter Demand:
-    * The fourth most important factor is Winter, with a coefficient of 0.146575. This implies that demand is expected to increase by a factor of 0.146575 during the winter months (specifically September, October, November, and December).
-5. Windspeed Impact:
-    * The fifth most important variable is windspeed, with a coefficient of -0.099198. For every change in windspeed, demand is predicted to decrease by approximately 10%.
+1. **`Temperature Impact`**:
+    * The most critical factor influencing demand is **temperature**. With a coefficient of **0.600201**, for every 1-degree change in temperature, demand increases by a factor of **0.600201** (temperature × 0.600201). Impact is mostly during hotter months (especially in June, July, and August)
+2. **`Weather Conditions`**:
+    * The second most important factor is **Light Rain or Light Snow**, with a coefficient of **-0.289400**. On days with light rain, demand is expected to decrease by **28.9%**.
+3. **`Annual Growth`**:
+    * The third significant factor is the **year**, with a coefficient value of **0.238668**.
+4. **`Winter Demand`**:
+    * The fourth most important factor is **Winter**, with a coefficient of **0.146575**. This implies that demand is expected to increase by a factor of **0.146575** during the winter months (specifically September, October, November, and December).
+5. **`Windspeed Impact`**:
+    * The fifth most important variable is **windspeed**, with a coefficient of **-0.099198**. For every change in windspeed, demand is predicted to decrease by approximately **10%**.
 
 
 ## Technologies Used
@@ -44,10 +42,8 @@ Following logical conclusion can be derived from above equation if all external 
 
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was inspired by live session of upGrad on Linear Regression.
+- UpGrad tutorials on Linear Regression on the learning platform
 
 
 ## Contact
